@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aero_Insight_Hub/static/css/main.f855e6bc.css",
+    "main.js": "/Aero_Insight_Hub/static/js/main.48149554.js",
+    "static/media/homeImg.jpg": "/Aero_Insight_Hub/static/media/homeImg.b67e38d70e28f7f63164.jpg",
+    "static/media/title-logo.png": "/Aero_Insight_Hub/static/media/title-logo.bcb9795b52ebb73db06c.png",
+    "index.html": "/Aero_Insight_Hub/index.html",
+    "main.f855e6bc.css.map": "/Aero_Insight_Hub/static/css/main.f855e6bc.css.map",
+    "main.48149554.js.map": "/Aero_Insight_Hub/static/js/main.48149554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.48149554.js"
+  ]
+}
