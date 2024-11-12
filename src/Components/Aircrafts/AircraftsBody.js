@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import AircraftsTopbar from "./AircraftsTopbar";
 import AircraftsDataDisplay from "./AircraftsDataDisplay";
 
