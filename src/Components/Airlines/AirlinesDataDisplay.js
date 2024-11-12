@@ -1,4 +1,3 @@
-import { Box, Grid, List, ListItem, Typography } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { airlinesDataAPI } from "../../API/airlinesDataAPI";
 import AirlineCard from "../Cards/AirlineCard";
