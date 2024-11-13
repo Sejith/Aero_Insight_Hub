@@ -17,7 +17,7 @@ const AirlineCard = ({ airlineValue }) => {
   useEffect(() => {
     console.log(typeof airlineValue);
     console.log(Object.entries(airlineValue.fleet));
-  }, [airlineValue.fleet]);
+  }, [airlineValue]);
   return (
     <Card sx={{ maxWidth: 345 }}>
       <CardMedia
